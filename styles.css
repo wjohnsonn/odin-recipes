@@ -1,0 +1,15 @@
+* {
+    background-color: hsla(120, 100%, 25%, 0.3); /* green with opacity */
+    font-family: sans-serif, Arial;
+}
+
+img {
+    height: auto;
+    width: 250px;
+    border-radius: 20px;
+}
+
+h1, 
+h2 {
+    color: indigo;
+}
